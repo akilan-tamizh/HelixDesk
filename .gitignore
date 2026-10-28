@@ -39,3 +39,19 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+node_modules/
+.next/
+out/
+build/
+dist/
+.env
+.env.*
+!.env.example
+pnpm-debug.log*
+Thumbs.db
+*.bak
+*.backup
+*.backup-*
+*.before-*.bak
+page-backup.tsx
+build-error.txt
